@@ -1,0 +1,100 @@
+Construction Laborer|Carries materials, cleans job sites, and assists skilled workers on building projects.|44000|yes|yes|no
+Day Laborer|Takes short-term manual jobs like loading, hauling, and cleanup, often paid the same day.|30000|no|no|no
+Flagger|Directs traffic around road and utility work zones using signs and signals.|38000|yes|yes|yes
+Concrete Finisher Helper|Mixes, pours, and smooths concrete for sidewalks, floors, and roads.|46000|yes|yes|no
+Carpenter Helper|Measures, cuts, and carries lumber while assisting a carpenter.|42000|yes|yes|no
+Roofing Helper|Hauls shingles and tools and assists roofers installing and repairing roofs.|41000|yes|yes|no
+Painter Helper|Prepares surfaces, tapes, and paints walls, ceilings, and trim.|40000|yes|yes|no
+Drywall Installer Helper|Carries and hangs drywall sheets and helps tape and finish seams.|43000|yes|yes|no
+Insulation Installer|Fits insulation into walls, attics, and floors to save energy.|47000|yes|yes|no
+Masonry Helper|Mixes mortar and supplies brick and block to masons.|42000|yes|yes|no
+Pipelayer|Lays sewer, water, and drainage pipe in trenches.|46000|yes|yes|yes
+Plumber Helper|Carries materials and assists plumbers installing and repairing pipes.|40000|yes|yes|no
+Electrician Helper|Pulls wire, carries tools, and assists licensed electricians.|42000|yes|yes|no
+HVAC Helper|Assists technicians installing heating and cooling systems.|41000|yes|yes|no
+Surveying Rod Person|Holds measuring rods and markers while a survey crew maps a site.|43000|yes|yes|no
+Heavy Equipment Operator Trainee|Learns to run bulldozers, loaders, and excavators on a work crew.|52000|yes|yes|yes
+Road Maintenance Worker|Patches potholes, clears debris, and repairs roads and signs.|45000|yes|yes|no
+Highway Maintenance Crew Member|Mows right-of-way, repairs guardrails, and clears roadways after storms.|47000|yes|yes|no
+Demolition Worker|Takes down buildings and structures and sorts debris for hauling.|49000|yes|yes|yes
+Scaffold Builder|Assembles and takes down scaffolding on construction sites.|50000|yes|yes|yes
+Welder Helper|Preps metal, cleans welds, and assists welders.|41000|yes|yes|no
+Welder|Joins metal parts using welding equipment on structures and equipment.|52000|yes|yes|yes
+Ironworker Apprentice|Learns to place steel beams and rebar on bridges and buildings.|48000|yes|yes|yes
+Rebar Installer|Ties and places steel reinforcing bars in concrete forms.|50000|yes|yes|yes
+Fence Installer|Digs post holes and builds wood, chain-link, and metal fences.|40000|yes|yes|no
+Paving Crew Member|Spreads and rakes asphalt and operates small compaction equipment.|43000|yes|yes|no
+Asphalt Raker|Shapes hot asphalt by hand behind paving machines.|42000|yes|yes|no
+Tile Setter Helper|Mixes thinset and cuts and lays tile under a tile setter.|41000|yes|yes|no
+Flooring Installer|Installs carpet, vinyl, laminate, and hardwood flooring.|46000|yes|yes|yes
+Glazier Helper|Carries and sets windows and glass panels with a glazing crew.|43000|yes|yes|no
+Sheet Metal Worker Apprentice|Learns to cut, bend, and install ducts and metal panels.|47000|yes|yes|yes
+Solar Panel Installer|Mounts and wires solar panels on roofs and ground frames.|48000|yes|yes|yes
+Water Treatment Plant Trainee|Learns to monitor and test water treatment equipment.|47000|yes|yes|yes
+Sewer Line Maintenance Worker|Cleans and inspects sewer lines and storm drains.|46000|yes|yes|no
+Street Sweeper Operator|Drives a sweeper truck to clean city streets.|42000|yes|yes|yes
+Landscape Laborer|Plants, mulches, and maintains grounds for homes and businesses.|36000|no|no|no
+Tree Trimmer Helper|Gathers branches and assists crews pruning and removing trees.|40000|yes|yes|no
+Groundskeeper|Mows, waters, and maintains parks, campuses, and sports fields.|37000|yes|no|no
+Snow Removal Worker|Shovels and plows snow from lots, sidewalks, and roads.|34000|no|no|no
+Pressure Washer|Cleans buildings, driveways, and equipment with high-pressure water.|35000|no|no|no
+Window Washer|Cleans windows on homes and commercial buildings.|36000|yes|no|no
+Gutter Cleaner|Clears and repairs gutters and downspouts.|35000|no|no|no
+Handyman Helper|Assists with small repairs such as patching, painting, and hanging fixtures.|37000|no|yes|no
+Property Maintenance Worker|Performs general repairs and upkeep on apartment buildings.|42000|yes|yes|no
+Apartment Maintenance Technician|Fixes plumbing, appliances, and electrical issues in rental units.|46000|yes|yes|yes
+Building Maintenance Worker|Handles repairs, cleaning, and basic equipment checks in buildings.|44000|yes|yes|no
+Boiler Operator Trainee|Learns to run and monitor heating boilers in large buildings.|50000|yes|yes|yes
+Commercial Truck Driver|Hauls freight with a tractor-trailer and needs a commercial license.|55000|yes|yes|yes
+Dump Truck Driver|Hauls dirt, gravel, and debris to and from work sites.|48000|yes|yes|yes
+Delivery Driver|Delivers packages, food, or goods in a car or van.|36000|yes|yes|no
+Courier|Carries packages and documents by bike, foot, or car.|34000|yes|yes|no
+Warehouse Worker|Picks, packs, and moves goods in a warehouse.|38000|yes|yes|no
+Forklift Operator|Moves pallets and materials with a forklift.|42000|yes|yes|yes
+Stock Clerk|Restocks shelves and unpacks deliveries in stores.|33000|yes|no|no
+Grocery Bagger|Bags groceries and helps customers carry items.|29000|no|no|no
+Retail Cashier|Rings up purchases and handles payments.|30000|yes|no|no
+Car Wash Attendant|Washes, dries, and vacuums vehicles.|29000|no|no|no
+Auto Detailer|Deep cleans and polishes the inside and outside of vehicles.|33000|no|no|no
+Laundry Worker|Washes, dries, and folds linens and clothing.|31000|no|no|no
+Hotel Housekeeper|Cleans guest rooms and restocks supplies.|32000|yes|no|no
+Security Guard|Watches properties, checks entrances, and reports problems.|36000|yes|yes|yes
+Parking Lot Attendant|Directs vehicles and collects parking fees.|31000|yes|no|no
+Dishwasher|Cleans dishes and kitchen equipment in restaurants.|29000|no|no|no
+Kitchen Helper|Preps ingredients and keeps the kitchen clean.|31000|no|no|no
+Food Prep Worker|Chops, mixes, and portions ingredients for cooks.|31000|no|no|no
+Line Cook|Prepares menu items on a restaurant cooking line.|36000|yes|no|no
+Fast Food Worker|Takes orders, cooks, and serves food in quick-service restaurants.|29000|yes|no|no
+Barista|Prepares coffee and drinks and serves customers.|30000|yes|no|no
+Catering Helper|Sets up, serves, and cleans up at events.|31000|no|yes|no
+Event Setup Crew Member|Builds stages, sets up chairs, and tears down after events.|33000|no|yes|no
+Sanitation Worker|Collects garbage and recycling along city routes.|44000|yes|yes|no
+Recycling Plant Worker|Sorts and bales recyclable materials.|36000|yes|no|no
+Farm Worker|Plants, harvests, and packs crops.|31000|no|no|no
+Packer|Packs products into boxes and prepares them for shipping.|33000|yes|no|no
+Assembler|Puts together parts and products on a production line.|38000|yes|no|no
+Machine Operator|Runs machines that cut, shape, or package products.|41000|yes|no|yes
+Food Processing Worker|Cleans, sorts, and packages food products in plants.|34000|yes|no|no
+Mail Handler|Sorts and moves mail and parcels in processing centers.|45000|yes|yes|no
+Custodian|Cleans and maintains schools and public buildings.|36000|yes|no|no
+Appliance Delivery Helper|Loads and carries appliances and furniture to customers' homes.|35000|yes|yes|no
+Furniture Assembler|Builds and installs furniture for stores and customers.|34000|no|yes|no
+Cabinet Installer Helper|Carries and positions cabinets while an installer secures them.|41000|yes|yes|no
+Tire Technician|Changes, repairs, and balances tires.|37000|yes|no|no
+Lube Technician|Changes oil and fluids and does quick vehicle checks.|35000|yes|no|no
+Auto Mechanic Helper|Assists mechanics with parts, tools, and repairs.|36000|yes|no|no
+Bicycle Mechanic|Repairs and tunes bikes in a shop.|35000|no|no|no
+Sign Installer|Installs street, traffic, and storefront signs.|42000|yes|yes|no
+Call Center Representative|Answers customer calls and emails from a phone and computer.|37000|yes|yes|no
+Customer Service Representative|Helps customers with orders and questions.|38000|yes|yes|no
+Data Entry Clerk|Types information into databases and spreadsheets.|36000|yes|yes|no
+Home Health Aide|Helps clients with daily tasks in their homes.|34000|yes|yes|yes
+Certified Nursing Assistant|Assists patients with care under nurses' supervision.|38000|yes|yes|yes
+Personal Care Aide|Helps older adults and people with disabilities with daily activities.|33000|yes|yes|yes
+Medical Transport Driver|Drives patients to appointments in a van.|37000|yes|yes|yes
+Peer Support Specialist|Uses personal experience to support others in recovery and housing programs.|40000|yes|yes|yes
+Community Health Worker|Connects people with health, housing, and benefits services.|46000|yes|yes|yes
+Pest Control Technician|Inspects homes and applies treatments for insects and rodents.|42000|yes|yes|yes
+Janitor|Cleans floors, restrooms, and common areas of buildings.|36000|yes|no|no
+Machine Shop Helper|Cleans machines, moves parts, and supports machinists.|37000|yes|no|no
+Solar Farm Maintenance Worker|Cleans panels and checks equipment at solar installations.|44000|yes|yes|no
